@@ -9,7 +9,6 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites.
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like .NET Core, JavaScript, and Angular.
 - 📚 I’m currently learning more about full-stack development, system design, and AI integration.
 - 🎯 Future Goals: Deepen my .NET expertise and build impactful AI-integrated web applications.
 
